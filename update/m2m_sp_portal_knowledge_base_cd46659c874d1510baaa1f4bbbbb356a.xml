@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_knowledge_base">
+    <m2m_sp_portal_knowledge_base action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <kb_knowledge_base display_value="Consumer Service">2b292926c3302200e7c7d44d81d3ae10</kb_knowledge_base>
+        <order>100</order>
+        <sp_portal display_value="New module 2">8d46659c874d1510baaa1f4bbbbb3550</sp_portal>
+        <sys_class_name>m2m_sp_portal_knowledge_base</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-28 11:02:18</sys_created_on>
+        <sys_id>cd46659c874d1510baaa1f4bbbbb356a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Consumer Service.New module 2</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>m2m_sp_portal_knowledge_base_cd46659c874d1510baaa1f4bbbbb356a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-28 11:02:18</sys_updated_on>
+    </m2m_sp_portal_knowledge_base>
+</record_update>

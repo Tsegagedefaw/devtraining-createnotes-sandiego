@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_csm_ec_chat_instance">
+    <sn_csm_ec_chat_instance action="INSERT_OR_UPDATE">
+        <chat_branding display_value="New module 2">9d46659c874d1510baaa1f4bbbbb3582</chat_branding>
+        <enabled>true</enabled>
+        <feature display_value="Chat">0c2b5d51876b10109eb0578c87cb0beb</feature>
+        <launch_description>Talk to our team for a quick solution.</launch_description>
+        <launch_message>Chat with us</launch_message>
+        <messenger_module display_value="New module 2">4146659c874d1510baaa1f4bbbbb354c</messenger_module>
+        <offline_chat_message>Our customer support is offline.</offline_chat_message>
+        <order>600</order>
+        <sub_title/>
+        <sys_class_name>sn_csm_ec_chat_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-28 11:02:18</sys_created_on>
+        <sys_id>dd46659c874d1510baaa1f4bbbbb3580</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sn_csm_ec_chat_instance_dd46659c874d1510baaa1f4bbbbb3580</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-28 11:07:39</sys_updated_on>
+        <title>Chat with an agent</title>
+        <va_topic display_value="Update NeedIt Records">6c963d3b87241550baaa1f4bbbbb3558</va_topic>
+        <visible_for_guest>true</visible_for_guest>
+        <visible_for_user>true</visible_for_user>
+    </sn_csm_ec_chat_instance>
+</record_update>

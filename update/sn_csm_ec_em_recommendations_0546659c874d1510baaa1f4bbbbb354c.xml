@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_csm_ec_em_recommendations">
+    <sn_csm_ec_em_recommendations action="INSERT_OR_UPDATE">
+        <animation_tooltip_text>We have some recommendations for you</animation_tooltip_text>
+        <animation_type>ripple</animation_type>
+        <enable_recommendations>false</enable_recommendations>
+        <link_text_messenger>Need more help? [[Help center]]</link_text_messenger>
+        <max_recommendations>3</max_recommendations>
+        <proactive_chat_button_label>Start a conversation</proactive_chat_button_label>
+        <proactive_help_type>none</proactive_help_type>
+        <proactive_search_placeholder_text>What are you looking for?</proactive_search_placeholder_text>
+        <proactive_subtitle_text>Looks like you are stuck. Looking for something? Tell us what you need.</proactive_subtitle_text>
+        <proactive_title_text>Recommendation</proactive_title_text>
+        <show_home_link>true</show_home_link>
+        <show_search_bar>true</show_search_bar>
+        <show_tooltip>true</show_tooltip>
+        <subtitle>This might help you</subtitle>
+        <sys_class_name>sn_csm_ec_em_recommendations</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-28 11:02:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>0546659c874d1510baaa1f4bbbbb354c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recommendations</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sn_csm_ec_em_recommendations_0546659c874d1510baaa1f4bbbbb354c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-28 11:02:17</sys_updated_on>
+        <text_more_recommendations>Show more recommendations</text_more_recommendations>
+        <title>Recommendations</title>
+    </sn_csm_ec_em_recommendations>
+</record_update>
